@@ -1,0 +1,14 @@
+[INFO    :   django.utils.autoreload] - 2024-01-22 19:28:34,977 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :             django.server] - 2024-01-22 19:28:36,156 : log_message @0212: "GET / HTTP/1.1" 200 13
+[INFO    :   django.utils.autoreload] - 2024-01-22 19:31:34,794 : trigger_reload @0266: D:\Django-sem\app_1\views.py changed, reloading.
+[INFO    :   django.utils.autoreload] - 2024-01-22 19:31:35,066 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :   django.utils.autoreload] - 2024-01-22 19:32:44,882 : trigger_reload @0266: D:\Django-sem\app_1\views.py changed, reloading.
+[INFO    :   django.utils.autoreload] - 2024-01-22 19:32:45,144 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :   django.utils.autoreload] - 2024-01-22 19:34:15,528 : trigger_reload @0266: D:\Django-sem\app_1\views.py changed, reloading.
+[INFO    :   django.utils.autoreload] - 2024-01-22 19:34:15,815 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :               app_1.views] - 2024-01-22 19:34:55,405 : index @0009: index get request
+[INFO    :             django.server] - 2024-01-22 19:34:55,405 : log_message @0212: "GET / HTTP/1.1" 200 13
+[INFO    :               app_1.views] - 2024-01-22 19:35:34,535 : dice @0024: Random number from 1 to 6
+[INFO    :             django.server] - 2024-01-22 19:35:34,536 : log_message @0212: "GET /dice/ HTTP/1.1" 200 1
+[INFO    :   django.utils.autoreload] - 2024-01-22 19:40:07,395 : trigger_reload @0266: D:\Django-sem\app_1\views.py changed, reloading.
+[INFO    :   django.utils.autoreload] - 2024-01-22 19:40:07,669 : run_with_reloader @0668: Watching for file changes with StatReloader
