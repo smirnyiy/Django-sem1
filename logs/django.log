@@ -12,3 +12,340 @@
 [INFO    :             django.server] - 2024-01-22 19:35:34,536 : log_message @0212: "GET /dice/ HTTP/1.1" 200 1
 [INFO    :   django.utils.autoreload] - 2024-01-22 19:40:07,395 : trigger_reload @0266: D:\Django-sem\app_1\views.py changed, reloading.
 [INFO    :   django.utils.autoreload] - 2024-01-22 19:40:07,669 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :   django.utils.autoreload] - 2024-01-25 19:34:20,118 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :               app_1.views] - 2024-01-25 19:34:22,639 : index @0010: index get request
+[INFO    :             django.server] - 2024-01-25 19:34:22,639 : log_message @0212: "GET / HTTP/1.1" 200 13
+[WARNING :            django.request] - 2024-01-25 19:34:22,693 : log_response @0241: Not Found: /favicon.ico
+[WARNING :             django.server] - 2024-01-25 19:34:22,693 : log_message @0212: "GET /favicon.ico HTTP/1.1" 404 2934
+[INFO    :               app_1.views] - 2024-01-25 19:34:32,432 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:34:32,437 : log_message @0212: "GET /hat HTTP/1.1" 200 8
+[INFO    :               app_1.views] - 2024-01-25 19:34:34,135 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:34:34,140 : log_message @0212: "GET /hat HTTP/1.1" 200 10
+[INFO    :               app_1.views] - 2024-01-25 19:34:34,823 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:34:34,827 : log_message @0212: "GET /hat HTTP/1.1" 200 10
+[INFO    :               app_1.views] - 2024-01-25 19:34:35,364 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:34:35,368 : log_message @0212: "GET /hat HTTP/1.1" 200 10
+[INFO    :               app_1.views] - 2024-01-25 19:34:35,903 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:34:35,910 : log_message @0212: "GET /hat HTTP/1.1" 200 8
+[INFO    :               app_1.views] - 2024-01-25 19:35:11,767 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:35:11,772 : log_message @0212: "GET /hat HTTP/1.1" 200 10
+[INFO    :               app_1.views] - 2024-01-25 19:35:12,495 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:35:12,499 : log_message @0212: "GET /hat HTTP/1.1" 200 10
+[INFO    :               app_1.views] - 2024-01-25 19:35:14,214 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:35:14,218 : log_message @0212: "GET /hat HTTP/1.1" 200 8
+[INFO    :               app_1.views] - 2024-01-25 19:35:33,207 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:35:33,211 : log_message @0212: "GET /hat HTTP/1.1" 200 10
+[INFO    :               app_1.views] - 2024-01-25 19:35:33,766 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:35:33,773 : log_message @0212: "GET /hat HTTP/1.1" 200 8
+[INFO    :               app_1.views] - 2024-01-25 19:35:34,431 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:35:34,436 : log_message @0212: "GET /hat HTTP/1.1" 200 10
+[INFO    :               app_1.views] - 2024-01-25 19:35:35,311 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:35:35,315 : log_message @0212: "GET /hat HTTP/1.1" 200 8
+[INFO    :               app_1.views] - 2024-01-25 19:35:35,910 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:35:35,915 : log_message @0212: "GET /hat HTTP/1.1" 200 8
+[INFO    :               app_1.views] - 2024-01-25 19:35:38,181 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:35:38,185 : log_message @0212: "GET /hat HTTP/1.1" 200 8
+[INFO    :               app_1.views] - 2024-01-25 19:35:38,609 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:35:38,615 : log_message @0212: "GET /hat HTTP/1.1" 200 10
+[INFO    :               app_1.views] - 2024-01-25 19:35:39,119 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:35:39,123 : log_message @0212: "GET /hat HTTP/1.1" 200 10
+[INFO    :   django.utils.autoreload] - 2024-01-25 19:38:13,496 : trigger_reload @0266: D:\Django-sem\app_1\views.py changed, reloading.
+[INFO    :   django.utils.autoreload] - 2024-01-25 19:38:13,804 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :   django.utils.autoreload] - 2024-01-25 19:38:28,966 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :   django.utils.autoreload] - 2024-01-25 19:38:47,512 : trigger_reload @0266: D:\Django-sem\app_1\views.py changed, reloading.
+[INFO    :   django.utils.autoreload] - 2024-01-25 19:38:47,775 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :               app_1.views] - 2024-01-25 19:38:52,227 : index @0010: index get request
+[INFO    :             django.server] - 2024-01-25 19:38:52,227 : log_message @0212: "GET / HTTP/1.1" 200 13
+[INFO    :               app_1.views] - 2024-01-25 19:39:03,148 : index @0010: index get request
+[INFO    :             django.server] - 2024-01-25 19:39:03,149 : log_message @0212: "GET / HTTP/1.1" 200 13
+[INFO    :               app_1.views] - 2024-01-25 19:39:08,809 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:39:08,816 : log_message @0212: "GET /hat HTTP/1.1" 200 10
+[INFO    :               app_1.views] - 2024-01-25 19:39:10,103 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:39:10,107 : log_message @0212: "GET /hat HTTP/1.1" 200 10
+[INFO    :               app_1.views] - 2024-01-25 19:39:10,815 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:39:10,819 : log_message @0212: "GET /hat HTTP/1.1" 200 8
+[INFO    :               app_1.views] - 2024-01-25 19:39:11,254 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:39:11,259 : log_message @0212: "GET /hat HTTP/1.1" 200 10
+[INFO    :               app_1.views] - 2024-01-25 19:39:11,634 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:39:11,638 : log_message @0212: "GET /hat HTTP/1.1" 200 8
+[INFO    :               app_1.views] - 2024-01-25 19:39:12,033 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:39:12,039 : log_message @0212: "GET /hat HTTP/1.1" 200 8
+[INFO    :               app_1.views] - 2024-01-25 19:39:12,774 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:39:12,779 : log_message @0212: "GET /hat HTTP/1.1" 200 10
+[INFO    :               app_1.views] - 2024-01-25 19:39:13,181 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:39:13,187 : log_message @0212: "GET /hat HTTP/1.1" 200 10
+[INFO    :   django.utils.autoreload] - 2024-01-25 19:45:57,972 : trigger_reload @0266: D:\Django-sem\app_1\views.py changed, reloading.
+[INFO    :   django.utils.autoreload] - 2024-01-25 19:45:58,228 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :   django.utils.autoreload] - 2024-01-25 19:47:17,282 : trigger_reload @0266: D:\Django-sem\app_1\views.py changed, reloading.
+[INFO    :   django.utils.autoreload] - 2024-01-25 19:47:17,547 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :   django.utils.autoreload] - 2024-01-25 19:49:51,957 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :   django.utils.autoreload] - 2024-01-25 19:51:42,813 : trigger_reload @0266: D:\Django-sem\app_1\views.py changed, reloading.
+[INFO    :   django.utils.autoreload] - 2024-01-25 19:51:43,082 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :               app_1.views] - 2024-01-25 19:51:47,162 : index @0010: index get request
+[INFO    :             django.server] - 2024-01-25 19:51:47,163 : log_message @0212: "GET / HTTP/1.1" 200 13
+[INFO    :               app_1.views] - 2024-01-25 19:51:53,521 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:51:53,526 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 19:51:56,733 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:51:56,738 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 19:51:57,365 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:51:57,370 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 19:51:57,926 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:51:57,930 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 19:51:58,413 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:51:58,418 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 19:51:58,829 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:51:58,834 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 19:52:19,656 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:52:19,660 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 19:52:20,062 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:52:20,067 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 19:52:20,558 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:52:20,561 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 19:52:20,792 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:52:20,797 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 19:52:20,966 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:52:20,971 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 19:52:21,150 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:52:21,155 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 19:52:21,325 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:52:21,329 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :   django.utils.autoreload] - 2024-01-25 19:53:56,734 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :               app_1.views] - 2024-01-25 19:54:07,954 : index @0010: index get request
+[INFO    :             django.server] - 2024-01-25 19:54:07,954 : log_message @0212: "GET / HTTP/1.1" 200 13
+[INFO    :               app_1.views] - 2024-01-25 19:54:11,887 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:54:11,892 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 19:54:15,021 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:54:15,026 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 19:54:15,541 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:54:15,546 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 19:54:16,184 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:54:16,189 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 19:54:16,637 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:54:16,642 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 19:54:17,077 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:54:17,083 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 19:55:28,233 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:55:28,237 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 19:55:28,864 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:55:28,869 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 19:58:45,841 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:58:45,845 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 19:58:46,304 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:58:46,309 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 19:58:46,813 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:58:46,818 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 19:58:47,078 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:58:47,084 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 19:58:47,272 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:58:47,277 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 19:58:47,629 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:58:47,634 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 19:58:47,768 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:58:47,785 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 19:58:47,940 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:58:47,943 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 19:58:48,174 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:58:48,178 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 19:58:48,380 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 19:58:48,383 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :   django.utils.autoreload] - 2024-01-25 20:04:12,440 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :               app_1.views] - 2024-01-25 20:04:15,551 : index @0010: index get request
+[INFO    :             django.server] - 2024-01-25 20:04:15,552 : log_message @0212: "GET / HTTP/1.1" 200 13
+[INFO    :               app_1.views] - 2024-01-25 20:04:19,937 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 20:04:19,942 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 20:04:23,547 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 20:04:23,550 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 20:04:23,757 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 20:04:23,762 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 20:04:23,925 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 20:04:23,929 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 20:04:24,103 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 20:04:24,108 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 20:04:24,573 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 20:04:24,577 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 20:04:24,780 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 20:04:24,785 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 20:04:29,332 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 20:04:29,338 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 20:04:29,872 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 20:04:29,876 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 20:04:30,350 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 20:04:30,354 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 20:04:30,962 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 20:04:30,968 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 20:04:33,056 : hat @0018: random name 
+[INFO    :             django.server] - 2024-01-25 20:04:33,061 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :   django.utils.autoreload] - 2024-01-25 20:05:02,380 : run_with_reloader @0668: Watching for file changes with StatReloader
+[ERROR   :            django.request] - 2024-01-25 20:05:05,782 : log_response @0241: Internal Server Error: /hat
+Traceback (most recent call last):
+  File "C:\Program Files\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django-sem\app_1\views.py", line 18, in hat
+    logger.info(f'Монетка выпала стороной {heads_tails}')
+                                           ^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'heads_tails' where it is not associated with a value
+[ERROR   :             django.server] - 2024-01-25 20:05:05,783 : log_message @0212: "GET /hat HTTP/1.1" 500 65148
+[ERROR   :            django.request] - 2024-01-25 20:05:25,279 : log_response @0241: Internal Server Error: /hat
+Traceback (most recent call last):
+  File "C:\Program Files\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django-sem\app_1\views.py", line 18, in hat
+    logger.info(f'Монетка выпала стороной {heads_tails}')
+                                           ^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'heads_tails' where it is not associated with a value
+[ERROR   :             django.server] - 2024-01-25 20:05:25,281 : log_message @0212: "GET /hat HTTP/1.1" 500 65148
+[ERROR   :            django.request] - 2024-01-25 20:05:26,143 : log_response @0241: Internal Server Error: /hat
+Traceback (most recent call last):
+  File "C:\Program Files\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django-sem\app_1\views.py", line 18, in hat
+    logger.info(f'Монетка выпала стороной {heads_tails}')
+                                           ^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'heads_tails' where it is not associated with a value
+[ERROR   :             django.server] - 2024-01-25 20:05:26,144 : log_message @0212: "GET /hat HTTP/1.1" 500 65148
+[ERROR   :            django.request] - 2024-01-25 20:05:26,854 : log_response @0241: Internal Server Error: /hat
+Traceback (most recent call last):
+  File "C:\Program Files\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django-sem\app_1\views.py", line 18, in hat
+    logger.info(f'Монетка выпала стороной {heads_tails}')
+                                           ^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'heads_tails' where it is not associated with a value
+[ERROR   :             django.server] - 2024-01-25 20:05:26,855 : log_message @0212: "GET /hat HTTP/1.1" 500 65148
+[INFO    :   django.utils.autoreload] - 2024-01-25 20:06:02,134 : trigger_reload @0266: D:\Django-sem\app_1\views.py changed, reloading.
+[INFO    :   django.utils.autoreload] - 2024-01-25 20:06:02,423 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :               app_1.views] - 2024-01-25 20:06:04,214 : index @0010: index get request
+[INFO    :             django.server] - 2024-01-25 20:06:04,215 : log_message @0212: "GET / HTTP/1.1" 200 13
+[INFO    :               app_1.views] - 2024-01-25 20:06:14,429 : hat @0023: Монетка выпала стороной Орел
+[INFO    :             django.server] - 2024-01-25 20:06:14,434 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 20:06:20,114 : hat @0023: Монетка выпала стороной Орел
+[INFO    :             django.server] - 2024-01-25 20:06:20,118 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 20:06:21,653 : hat @0023: Монетка выпала стороной Решка
+[INFO    :             django.server] - 2024-01-25 20:06:21,657 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 20:06:22,306 : hat @0023: Монетка выпала стороной Решка
+[INFO    :             django.server] - 2024-01-25 20:06:22,310 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 20:06:22,805 : hat @0023: Монетка выпала стороной Орел
+[INFO    :             django.server] - 2024-01-25 20:06:22,810 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 20:06:23,350 : hat @0023: Монетка выпала стороной Решка
+[INFO    :             django.server] - 2024-01-25 20:06:23,354 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 20:06:23,877 : hat @0023: Монетка выпала стороной Орел
+[INFO    :             django.server] - 2024-01-25 20:06:23,882 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 20:06:24,337 : hat @0023: Монетка выпала стороной Орел
+[INFO    :             django.server] - 2024-01-25 20:06:24,341 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 20:06:24,647 : hat @0023: Монетка выпала стороной Орел
+[INFO    :             django.server] - 2024-01-25 20:06:24,652 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 20:06:41,415 : hat @0023: Монетка выпала стороной Орел
+[INFO    :             django.server] - 2024-01-25 20:06:41,419 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 20:06:42,021 : hat @0023: Монетка выпала стороной Орел
+[INFO    :             django.server] - 2024-01-25 20:06:42,026 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 20:06:42,466 : hat @0023: Монетка выпала стороной Орел
+[INFO    :             django.server] - 2024-01-25 20:06:42,472 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 20:06:42,677 : hat @0023: Монетка выпала стороной Орел
+[INFO    :             django.server] - 2024-01-25 20:06:42,682 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 20:06:43,277 : hat @0023: Монетка выпала стороной Решка
+[INFO    :             django.server] - 2024-01-25 20:06:43,281 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 20:06:43,836 : hat @0023: Монетка выпала стороной Решка
+[INFO    :             django.server] - 2024-01-25 20:06:43,840 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 20:06:44,317 : hat @0023: Монетка выпала стороной Орел
+[INFO    :             django.server] - 2024-01-25 20:06:44,321 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 20:06:44,516 : hat @0023: Монетка выпала стороной Орел
+[INFO    :             django.server] - 2024-01-25 20:06:44,521 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 20:06:44,699 : hat @0023: Монетка выпала стороной Решка
+[INFO    :             django.server] - 2024-01-25 20:06:44,703 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 20:07:52,179 : hat @0023: Монетка выпала стороной Орел
+[INFO    :             django.server] - 2024-01-25 20:07:52,183 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 20:07:52,562 : hat @0023: Монетка выпала стороной Орел
+[INFO    :             django.server] - 2024-01-25 20:07:52,566 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 20:07:52,732 : hat @0023: Монетка выпала стороной Орел
+[INFO    :             django.server] - 2024-01-25 20:07:52,739 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 20:07:52,894 : hat @0023: Монетка выпала стороной Решка
+[INFO    :             django.server] - 2024-01-25 20:07:52,899 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 20:07:53,098 : hat @0023: Монетка выпала стороной Орел
+[INFO    :             django.server] - 2024-01-25 20:07:53,102 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 20:07:53,310 : hat @0023: Монетка выпала стороной Орел
+[INFO    :             django.server] - 2024-01-25 20:07:53,314 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 20:07:53,496 : hat @0023: Монетка выпала стороной Орел
+[INFO    :             django.server] - 2024-01-25 20:07:53,501 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 20:07:53,667 : hat @0023: Монетка выпала стороной Орел
+[INFO    :             django.server] - 2024-01-25 20:07:53,672 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :   django.utils.autoreload] - 2024-01-25 20:10:02,250 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :               app_1.views] - 2024-01-25 20:10:05,868 : index @0010: index get request
+[INFO    :             django.server] - 2024-01-25 20:10:05,868 : log_message @0212: "GET / HTTP/1.1" 200 13
+[INFO    :               app_1.views] - 2024-01-25 20:10:10,447 : hat @0023: Монетка выпала стороной Орел
+[INFO    :             django.server] - 2024-01-25 20:10:10,452 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 20:10:18,812 : hat @0023: Монетка выпала стороной Решка
+[INFO    :             django.server] - 2024-01-25 20:10:18,817 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 20:10:19,508 : hat @0023: Монетка выпала стороной Орел
+[INFO    :             django.server] - 2024-01-25 20:10:19,513 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :               app_1.views] - 2024-01-25 20:10:20,124 : hat @0023: Монетка выпала стороной Решка
+[INFO    :             django.server] - 2024-01-25 20:10:20,131 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 20:10:20,733 : hat @0023: Монетка выпала стороной Решка
+[INFO    :             django.server] - 2024-01-25 20:10:20,740 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 20:10:21,440 : hat @0023: Монетка выпала стороной Решка
+[INFO    :             django.server] - 2024-01-25 20:10:21,445 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 20:10:22,109 : hat @0023: Монетка выпала стороной Решка
+[INFO    :             django.server] - 2024-01-25 20:10:22,113 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 20:10:22,523 : hat @0023: Монетка выпала стороной Решка
+[INFO    :             django.server] - 2024-01-25 20:10:22,528 : log_message @0212: "GET /hat HTTP/1.1" 200 55
+[INFO    :               app_1.views] - 2024-01-25 20:10:22,924 : hat @0023: Монетка выпала стороной Орел
+[INFO    :             django.server] - 2024-01-25 20:10:22,928 : log_message @0212: "GET /hat HTTP/1.1" 200 53
+[INFO    :   django.utils.autoreload] - 2024-01-25 20:33:21,536 : trigger_reload @0266: D:\Django-sem\app_1\models.py changed, reloading.
+[INFO    :   django.utils.autoreload] - 2024-01-25 20:33:21,823 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :               app_1.views] - 2024-01-25 20:33:27,008 : index @0010: index get request
+[INFO    :             django.server] - 2024-01-25 20:33:27,008 : log_message @0212: "GET / HTTP/1.1" 200 13
+[INFO    :               app_1.views] - 2024-01-25 20:33:30,972 : hat @0023: Монетка выпала стороной Решка
+[INFO    :             django.server] - 2024-01-25 20:33:30,979 : log_message @0212: "GET /hat HTTP/1.1" 200 335
+[INFO    :   django.utils.autoreload] - 2024-01-25 21:20:22,870 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :   django.utils.autoreload] - 2024-01-25 21:20:54,769 : trigger_reload @0266: D:\Django-sem\app_1\urls.py changed, reloading.
+[INFO    :   django.utils.autoreload] - 2024-01-25 21:20:55,016 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :   django.utils.autoreload] - 2024-01-25 21:21:01,092 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :   django.utils.autoreload] - 2024-01-25 21:21:53,494 : trigger_reload @0266: D:\Django-sem\app_1\urls.py changed, reloading.
+[INFO    :   django.utils.autoreload] - 2024-01-25 21:21:53,744 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :   django.utils.autoreload] - 2024-01-25 21:22:18,441 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :   django.utils.autoreload] - 2024-01-25 21:25:46,541 : trigger_reload @0266: D:\Django-sem\app_1\urls.py changed, reloading.
+[INFO    :   django.utils.autoreload] - 2024-01-25 21:25:46,816 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :               app_1.views] - 2024-01-25 21:25:52,451 : index @0010: index get request
+[INFO    :             django.server] - 2024-01-25 21:25:52,451 : log_message @0212: "GET / HTTP/1.1" 200 13
+[WARNING :            django.request] - 2024-01-25 21:26:06,982 : log_response @0241: Not Found: /autors_view
+[WARNING :             django.server] - 2024-01-25 21:26:06,983 : log_message @0212: "GET /autors_view HTTP/1.1" 404 3272
+[WARNING :            django.request] - 2024-01-25 21:27:08,398 : log_response @0241: Not Found: /autors
+[WARNING :             django.server] - 2024-01-25 21:27:08,398 : log_message @0212: "GET /autors HTTP/1.1" 404 3257
+[INFO    :             django.server] - 2024-01-25 21:27:17,497 : log_message @0212: "GET /authors HTTP/1.1" 301 0
+[ERROR   :            django.request] - 2024-01-25 21:27:17,536 : log_response @0241: Internal Server Error: /authors/
+Traceback (most recent call last):
+  File "C:\Program Files\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django-sem\app_1\views.py", line 41, in authors_view
+    authors = Author.objects.all()
+              ^^^^^^
+NameError: name 'Author' is not defined
+[ERROR   :             django.server] - 2024-01-25 21:27:17,537 : log_message @0212: "GET /authors/ HTTP/1.1" 500 64544
+[INFO    :   django.utils.autoreload] - 2024-01-25 21:28:29,443 : trigger_reload @0266: D:\Django-sem\app_1\views.py changed, reloading.
+[INFO    :   django.utils.autoreload] - 2024-01-25 21:28:29,689 : run_with_reloader @0668: Watching for file changes with StatReloader
+[INFO    :               app_1.views] - 2024-01-25 21:28:32,928 : index @0010: index get request
+[INFO    :             django.server] - 2024-01-25 21:28:32,929 : log_message @0212: "GET / HTTP/1.1" 200 13
+[INFO    :               app_1.views] - 2024-01-25 21:28:36,438 : hat @0023: Монетка выпала стороной Орел
+[INFO    :             django.server] - 2024-01-25 21:28:36,444 : log_message @0212: "GET /hat HTTP/1.1" 200 333
+[WARNING :            django.request] - 2024-01-25 21:28:43,853 : log_response @0241: Not Found: /author
+[WARNING :             django.server] - 2024-01-25 21:28:43,854 : log_message @0212: "GET /author HTTP/1.1" 404 3257
+[INFO    :             django.server] - 2024-01-25 21:28:51,784 : log_message @0212: "GET /authors/ HTTP/1.1" 200 579
